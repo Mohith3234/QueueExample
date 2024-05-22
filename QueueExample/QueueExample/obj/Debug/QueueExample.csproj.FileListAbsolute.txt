@@ -1,0 +1,7 @@
+C:\Csharp\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+C:\Csharp\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+C:\Csharp\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+C:\Csharp\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+C:\Csharp\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+C:\Csharp\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+C:\Csharp\QueueExample\QueueExample\obj\Debug\QueueExample.pdb
